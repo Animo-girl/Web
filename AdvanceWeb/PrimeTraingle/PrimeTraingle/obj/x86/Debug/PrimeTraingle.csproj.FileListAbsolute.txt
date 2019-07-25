@@ -1,0 +1,4 @@
+C:\Users\kjssc\Documents\Atharva\PrimeTraingle\PrimeTraingle\bin\Debug\PrimeTraingle.exe
+C:\Users\kjssc\Documents\Atharva\PrimeTraingle\PrimeTraingle\bin\Debug\PrimeTraingle.pdb
+C:\Users\kjssc\Documents\Atharva\PrimeTraingle\PrimeTraingle\obj\x86\Debug\PrimeTraingle.exe
+C:\Users\kjssc\Documents\Atharva\PrimeTraingle\PrimeTraingle\obj\x86\Debug\PrimeTraingle.pdb

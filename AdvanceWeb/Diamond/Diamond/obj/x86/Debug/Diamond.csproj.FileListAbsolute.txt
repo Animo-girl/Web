@@ -1,0 +1,4 @@
+C:\Users\kjssc\Documents\Atharva\Diamond\Diamond\bin\Debug\Diamond.exe
+C:\Users\kjssc\Documents\Atharva\Diamond\Diamond\bin\Debug\Diamond.pdb
+C:\Users\kjssc\Documents\Atharva\Diamond\Diamond\obj\x86\Debug\Diamond.exe
+C:\Users\kjssc\Documents\Atharva\Diamond\Diamond\obj\x86\Debug\Diamond.pdb

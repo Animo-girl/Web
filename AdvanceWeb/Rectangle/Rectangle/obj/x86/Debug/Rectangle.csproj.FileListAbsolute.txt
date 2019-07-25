@@ -1,0 +1,4 @@
+C:\Users\kjssc\Documents\Atharva\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\kjssc\Documents\Atharva\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\kjssc\Documents\Atharva\Rectangle\Rectangle\obj\x86\Debug\Rectangle.exe
+C:\Users\kjssc\Documents\Atharva\Rectangle\Rectangle\obj\x86\Debug\Rectangle.pdb

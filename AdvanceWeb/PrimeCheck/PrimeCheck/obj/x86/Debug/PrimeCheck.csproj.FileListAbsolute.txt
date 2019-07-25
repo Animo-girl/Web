@@ -1,0 +1,4 @@
+C:\Users\kjssc\Documents\Atharva\PrimeCheck\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\kjssc\Documents\Atharva\PrimeCheck\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\kjssc\Documents\Atharva\PrimeCheck\PrimeCheck\obj\x86\Debug\PrimeCheck.exe
+C:\Users\kjssc\Documents\Atharva\PrimeCheck\PrimeCheck\obj\x86\Debug\PrimeCheck.pdb
