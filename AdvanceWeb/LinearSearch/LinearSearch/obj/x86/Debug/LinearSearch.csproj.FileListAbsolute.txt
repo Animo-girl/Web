@@ -1,0 +1,4 @@
+C:\Users\kjssc\Documents\Atharva\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\kjssc\Documents\Atharva\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\kjssc\Documents\Atharva\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.exe
+C:\Users\kjssc\Documents\Atharva\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.pdb
